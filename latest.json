@@ -1,0 +1,7 @@
+{
+    "versionCode":  15,
+    "versionName":  "0.4.7",
+    "sha256":  "51db33030eb34c1dc72505b2714c3141c3c4fcf264aee380f7da193d481a4ebc",
+    "apk":  "TerraEase-mobile-pilot.apk",
+    "notes":  "Replace the launcher icon with the farm logo: cropped white margins, badge scaled into the adaptive safe zone, and the protruding text kept fully visible."
+}
