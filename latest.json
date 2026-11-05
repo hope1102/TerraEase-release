@@ -1,7 +1,7 @@
 {
-    "versionCode":  15,
-    "versionName":  "0.4.7",
-    "sha256":  "51db33030eb34c1dc72505b2714c3141c3c4fcf264aee380f7da193d481a4ebc",
+    "versionCode":  16,
+    "versionName":  "0.4.8",
+    "sha256":  "240c3a799f004458614e77a46b214605821f83a9f1061e18cb14f24bab9b2258",
     "apk":  "TerraEase-mobile-pilot.apk",
-    "notes":  "Replace the launcher icon with the farm logo: cropped white margins, badge scaled into the adaptive safe zone, and the protruding text kept fully visible."
+    "notes":  "Fix in-app update: the installer no longer deletes the APK right after opening it (this caused a parse error on many phones), and a downloaded APK is now kept so you don\u0027t have to re-download after going back. Update feed moved to the public TerraEase-release repository."
 }
