@@ -1,7 +1,7 @@
 {
-    "versionCode":  17,
-    "versionName":  "0.4.9",
-    "sha256":  "00708c71939adf7ba7e97d42505d2d1377b7b3abfec0618e2b6e14eb737157c9",
+    "versionCode":  18,
+    "versionName":  "0.4.10",
+    "sha256":  "8aae3bec9de0a8fb3edf77499ea868c3d3d0e36e92dce4e6e0c75086ca27d286",
     "apk":  "TerraEase-mobile-pilot.apk",
-    "notes":  "采集停止后自动生成 RTK 面积、.pos 定位文件和地块数据（固定解计算，不出假成果）；删除处理页，实时计算状态并入采集页；登记地块只需填农户ID、地块名称、农作物，面积位置自动计算；新增设备成果免下载直传云端，不占手机存储；数据包上传地址更新。"
+    "notes":  "修复系统更新在国内直连 GitHub 失败的问题：改用国内可访问的镜像读取更新清单和下载安装包，多网络并发检查、响应更快。"
 }
