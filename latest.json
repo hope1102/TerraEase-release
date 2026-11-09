@@ -1,7 +1,7 @@
 {
-    "versionCode":  16,
-    "versionName":  "0.4.8",
-    "sha256":  "240c3a799f004458614e77a46b214605821f83a9f1061e18cb14f24bab9b2258",
+    "versionCode":  17,
+    "versionName":  "0.4.9",
+    "sha256":  "00708c71939adf7ba7e97d42505d2d1377b7b3abfec0618e2b6e14eb737157c9",
     "apk":  "TerraEase-mobile-pilot.apk",
-    "notes":  "Fix in-app update: the installer no longer deletes the APK right after opening it (this caused a parse error on many phones), and a downloaded APK is now kept so you don\u0027t have to re-download after going back. Update feed moved to the public TerraEase-release repository."
+    "notes":  "采集停止后自动生成 RTK 面积、.pos 定位文件和地块数据（固定解计算，不出假成果）；删除处理页，实时计算状态并入采集页；登记地块只需填农户ID、地块名称、农作物，面积位置自动计算；新增设备成果免下载直传云端，不占手机存储；数据包上传地址更新。"
 }
