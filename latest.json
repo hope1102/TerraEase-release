@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "0.4.11",
-  "sha256": "bb42f0fee02db7e97bd8a886b1d0f8c56e0a838d5755ba8f9961659fa5c5c834",
+  "versionCode": 20,
+  "versionName": "0.4.12",
+  "sha256": "613e39b3cf4c67e59f036c6b01f8bb3c986a131203229abfc910591e20c99bdf",
   "apk": "TerraEase-mobile-pilot.apk",
-  "notes": "经纪人先登录再选测绘任务，自动加载作物并绑定工程，成果上传使用甲方 IP 接口。"
+  "notes": "成果包默认使用“工程名-result.zip”。设备直传及手机上传自动采用新后缀。"
 }
