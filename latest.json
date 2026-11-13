@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "0.4.10",
-  "sha256": "8e02259d003c08f831b7d8102d86b3f38472c62b701649264ac23a74ebdaeb16",
+  "versionCode": 19,
+  "versionName": "0.4.11",
+  "sha256": "bb42f0fee02db7e97bd8a886b1d0f8c56e0a838d5755ba8f9961659fa5c5c834",
   "apk": "TerraEase-mobile-pilot.apk",
-  "notes": "修复系统更新在国内直连 GitHub 失败的问题：改用国内可访问的镜像读取更新清单和下载安装包，多网络并发检查、响应更快。"
+  "notes": "经纪人先登录再选测绘任务，自动加载作物并绑定工程，成果上传使用甲方 IP 接口。"
 }
