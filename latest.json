@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "0.4.12",
-  "sha256": "613e39b3cf4c67e59f036c6b01f8bb3c986a131203229abfc910591e20c99bdf",
+  "versionCode": 21,
+  "versionName": "0.4.13",
+  "sha256": "157f63d2009c62e43e86f12415671c6538aa3e0ca0267c47d40ee7519a3b7b20",
   "apk": "TerraEase-mobile-pilot.apk",
-  "notes": "成果包默认使用“工程名-result.zip”。设备直传及手机上传自动采用新后缀。"
+  "notes": "修复经纪人登录后的云端查询。测绘任务、关联地块和农作物查询切换到新的云端地址。"
 }
