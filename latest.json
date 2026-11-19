@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "0.4.13",
-  "sha256": "157f63d2009c62e43e86f12415671c6538aa3e0ca0267c47d40ee7519a3b7b20",
+  "versionCode": 22,
+  "versionName": "0.4.14",
+  "sha256": "70f44d744ad31faa7e620383510726b44c9af96c2d241a90a0777cbc6a09301d",
   "apk": "TerraEase-mobile-pilot.apk",
-  "notes": "修复经纪人登录后的云端查询。测绘任务、关联地块和农作物查询切换到新的云端地址。"
+  "notes": "采集不再依赖经纪人登录或测绘任务。采集页可选择农作物，并随工程保存用于成果上传。"
 }
